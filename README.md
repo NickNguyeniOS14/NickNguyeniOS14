@@ -1,4 +1,4 @@
-Hi there! My name is Nick and I'm a iOS Developer from Falls Church, Virginia. 😀
+Hi there! My name is Nick and I'm an iOS Developer from Falls Church, Virginia. 😀
 
 I wrote articles on Medium at:
 
