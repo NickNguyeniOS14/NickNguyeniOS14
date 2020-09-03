@@ -1,6 +1,6 @@
 Hi there! My name is Nick and I'm an iOS Developer from Falls Church, Virginia. 😀
 
-I wrote articles on Medium at:
+I write articles on Medium at:
 
 https://medium.com/@NickNguyen14/fizzbuzz-the-clean-way-in-swift-88ac51c2ba18
 
