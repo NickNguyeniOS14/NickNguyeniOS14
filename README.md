@@ -8,4 +8,4 @@ Here are some apps I have deployed on the App Store:
 
 https://apps.apple.com/us/developer/thinh-nguyen/id1475297118
 
-Here is my address: https://nicknguyenios14.github.io/
+I'm on Linkedin at: https://nicknguyenios14.github.io/
