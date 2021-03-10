@@ -8,5 +8,5 @@ Check out some of the apps I've deployed on the App Store 📱:
 
 https://apps.apple.com/us/developer/thinh-nguyen/id1475297118
 
-Connect with me on [Linkedln](https://www.linkedin.com/in/n19/)
+Connect with me on [Linkedln](https://www.linkedin.com/in/n19/) 🤗
 
