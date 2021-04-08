@@ -1,6 +1,6 @@
 Hi there!
 
-My name is Nick and I'm an iOS Engineer with passion for clean UI and app's performance. 😀
+My name is Nick and I'm an iOS Programmer with passion for clean UI and app's performance. 😀
 
 I write articles on Medium at:
 
